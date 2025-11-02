@@ -43,5 +43,5 @@ Open to collab & part-time, remote fullstack developer
 ---
 
 ### 📫 Connect With Me
-- GitHub: [github.com/yourusername](https://github.com/Batuktech)  
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/batzorig-arslan-11393b32b/)
+- GitHub: [github.com/Batuktech](https://github.com/Batuktech)  
+- LinkedIn: [linkedin.com/in/batzorig](https://www.linkedin.com/in/batzorig-arslan-11393b32b/)
